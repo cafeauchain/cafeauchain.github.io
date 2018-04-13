@@ -9,8 +9,13 @@ a:link {
   text-decoration: none;
 }
 
+a:hover {
+  text-decoration: none;
+}
+
 a:visited {
-  color: rgb(55, 89, 40);
+  color: #268042;
+  text-decoration: none;
 }
 
 .btn {
