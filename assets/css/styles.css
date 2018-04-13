@@ -12,8 +12,17 @@ a:visited {
   color: rgb(55, 89, 40);
 }
 
-button {
+.btn {
   background-color: #268042;
+}
+
+.btn-primary {
+  background-color: #268042;
+  color:rgb(231,236,241);
+}
+
+.btn-primary:hover {
+  background-color: rgb(97, 145, 75);
 }
 
 .card-title {
