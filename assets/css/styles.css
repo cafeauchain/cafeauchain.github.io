@@ -6,6 +6,7 @@
 
 a:link {
   color: rgb(97, 145, 75);
+  text-decoration: none;
 }
 
 a:visited {
