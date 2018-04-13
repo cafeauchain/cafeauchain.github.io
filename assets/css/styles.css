@@ -1,0 +1,19 @@
+.card {
+  background-color:rgba(0,0,0,0.45);
+  margin-left:3%;
+}
+
+.card-title {
+  opacity:1.0;
+}
+
+.lead.card-text {
+  font-size:54px;
+  margin-top:-12px;
+}
+
+p {
+  margin-top:-15px;
+  /*font-size:17px;*/
+}
+
