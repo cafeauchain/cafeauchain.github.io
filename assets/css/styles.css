@@ -12,6 +12,10 @@ a:visited {
   color: rgb(55, 89, 40);
 }
 
+button {
+  background-color: #268042;
+}
+
 .card-title {
   color:rgb(255,255,255);
 }
@@ -27,7 +31,7 @@ p {
 }
 
 .jumbotron {
-  background-image:url("assets/img/denis-bolshakov-531764-unsplash.jpg");
+  background-image:url("../assets/img/denis-bolshakov-531764-unsplash.jpg");
   background-size: cover;
   color:rgb(231,236,241);
   background-color:rgb(50,28,28);
