@@ -51,3 +51,13 @@ p {
   color:rgb(231,236,241);
   background-color:rgb(50,28,28);
 }
+
+.title-box {
+  background-color:rgba(0,0,0,0.45);
+  padding: 5%;
+  border-radius: .3em;
+}
+
+.newsletter-subscribe {
+  margin-bottom: 3em;
+}
